@@ -246,7 +246,8 @@ names = ["A", "B", "C", "D", "E"]
 plt.barh (names, values, color="yellowgreen")
 plt.show()
 ```
-![image](https://github.com/user-attachments/assets/5b4183e2-2e23-4ec7-ba12-dca77d08db97)
+![image](https://github.com/user-attachments/assets/74b691b3-8b20-4bfc-9c9a-8a7622207f04)
+
 ```
 import matplotlib.pyplot as plt
 height=[10,24,36,40,5]
